@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable-v24/animate_button.xml" value="0.259" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable-v24/animate_button_login.xml" value="0.2095" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable-v24/custom_botton.xml" value="0.2095" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable-v24/custom_button_press.xml" value="0.2095" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable-v24/custom_id_icon.xml" value="0.2095" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable-v24/custom_input.xml" value="0.3875" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable-v24/custom_input2.xml" value="0.3875" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable-v24/custom_input_red.xml" value="0.3875" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable-v24/custom_input_wite.xml" value="0.3875" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable-v24/custom_lock_icon.xml" value="0.2095" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable-v24/custom_user_icon.xml" value="0.2095" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable-v24/homes_menu.xml" value="0.259" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2095" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable-v24/id_search.xml" value="0.259" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable-v24/id_search_f.xml" value="0.259" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable-v24/lock_f.xml" value="0.2095" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable-v24/user.xml" value="0.2095" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable-v24/user_f.xml" value="0.2095" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable/administrar_ofertas.xml" value="0.2095" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable/close.xml" value="0.2095" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable/currency_dll.xml" value="0.3875" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable/currency_dll_f.xml" value="0.3875" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable/currency_doll.xml" value="0.3875" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable/custom_bacground.xml" value="0.2095" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable/custom_currency_dll.xml" value="0.3875" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable/custom_imagen_search.xml" value="0.2095" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable/custom_search_icon.xml" value="0.259" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable/custon_bacground.xml" value="0.2095" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable/custon_bacground_white.xml" value="0.2095" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2095" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable/ic_menu_camera.xml" value="0.2095" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.2095" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.2095" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable/imagen_search.xml" value="0.2095" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable/imagen_search_f.xml" value="0.2095" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable/list_item_skin.xml" value="0.3875" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable/rating_bar_green.xml" value="0.212" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable/rotate_text.xml" value="0.3875" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable/save.xml" value="0.2095" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable/side_nav_bar.xml" value="0.2095" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable/user_vector.xml" value="0.3875" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable/verifique_green.xml" value="0.3875" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable/verifique_reed.xml" value="0.3875" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/drawable/work.xml" value="0.2095" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/layout/activity_main_menu.xml" value="0.3374094202898551" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/layout/app_bar_main_menu.xml" value="0.3374094202898551" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/layout/content_main_menu.xml" value="0.3374094202898551" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/layout/fragment_administrar__contratos.xml" value="0.3875" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/layout/fragment_administrar_ofertas.xml" value="0.25" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/layout/fragment_calificar_usuario.xml" value="0.33" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/layout/fragment_crear_ofertas.xml" value="0.3875" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/layout/fragment_gallery.xml" value="0.33" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/layout/fragment_generar_oferta.xml" value="0.3875" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/layout/fragment_home.xml" value="0.3374094202898551" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/layout/fragment_lista_resenas.xml" value="0.3875" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/layout/fragment_modificar_contrato.xml" value="0.5" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/layout/fragment_notificaciones.xml" value="0.3875" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/layout/fragment_slideshow.xml" value="0.33" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/layout/fragment_solicitud_de_ofertas.xml" value="0.33" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/layout/fragment_ver_oferta.xml" value="0.33" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/layout/list_item_skin.xml" value="0.3875" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/layout/midelo_de_lista2.xml" value="0.5" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/layout/modelo_de_lista.xml" value="0.3875" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/layout/modelo_de_lista2.xml" value="0.365036231884058" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/layout/modelo_de_lista_Contract.xml" value="0.3875" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/layout/modelo_de_lista_Contrato.xml" value="1.5575657894736843" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/layout/modelo_de_lista_Contratos.xml" value="0.3875" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/layout/modelo_de_lista_administrar.xml" value="0.5" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/layout/modelo_de_lista_de_contrato.xml" value="0.3875" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/layout/modelo_de_lista_resenas.xml" value="0.3875" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/layout/modelo_de_lista_solicitud.xml" value="0.3875" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/layout/nav_header_main_menu.xml" value="0.33" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/layout/spinner_item_custom1.xml" value="0.3875" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/menu/activity_main_drawer.xml" value="0.33" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/menu/main__menu.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3875" />
+        <entry key="..\:/Users/migue/Dropbox/hire_Now/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

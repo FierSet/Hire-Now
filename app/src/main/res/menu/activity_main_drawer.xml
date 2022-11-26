@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/homes_menu"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_Perfil"
+            android:icon="@drawable/user_f"
+            android:title="@string/menu_Profile" />
+
+        <item android:title="@string/administracion_y_solicitudes">
+            <menu>
+
+                <item
+                    android:id="@+id/notificaciones"
+                    android:icon="@android:drawable/ic_menu_manage"
+                    android:title="@string/notificaciones" />
+
+                <item
+                    android:id="@+id/administrar_ofertas"
+                    android:icon="@drawable/administrar_ofertas"
+                    android:title="@string/administrar_ofertas" />
+
+                <item
+                    android:id="@+id/administrar_Contratos"
+                    android:icon="@drawable/administrar_ofertas"
+                    android:title="@string/administrar_contratos" />
+
+            </menu>
+        </item>
+
+        <item android:title="configuraciones">
+            <menu>
+
+                <item
+                    android:id="@+id/nav_config"
+                    android:icon="@android:drawable/ic_menu_manage"
+                    android:title="@string/menu_config" />
+
+            </menu>
+        </item>
+
+    </group>
+
+</menu>

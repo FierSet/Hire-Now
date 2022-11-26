@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.aoz.hire_now.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_nav_home_to_ver_oferta"
+            app:destination="@id/ver_oferta" />
+        <action
+            android:id="@+id/action_nav_home_to_crear_ofertas5"
+            app:destination="@id/crear_ofertas5" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_Perfil"
+        android:name="com.aoz.hire_now.ui.gallery.GalleryFragment"
+        android:label="@string/menu_Profile"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_config"
+        android:name="com.aoz.hire_now.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_config"
+        tools:layout="@layout/fragment_slideshow" >
+        <action
+            android:id="@+id/action_nav_config_to_nav_home"
+            app:destination="@id/nav_home" />
+    </fragment>
+    <fragment
+        android:id="@+id/crear_ofertas5"
+        android:name="com.aoz.hire_now.ui.Creat_oferta.Crear_ofertas"
+        android:label="Crear_ofertas" />
+    <fragment
+        android:id="@+id/ver_oferta"
+        android:name="com.aoz.hire_now.ui.ver_oferta.Ver_oferta"
+        android:label="fragment_ver_oferta"
+        tools:layout="@layout/fragment_ver_oferta" />
+    <fragment
+        android:id="@+id/administrar_ofertas"
+        android:name="com.aoz.hire_now.ui.administrat_ofertas.administrar_ofertas"
+        android:label="@string/administrar_ofertas"
+        tools:layout="@layout/fragment_administrar_ofertas" >
+        <action
+            android:id="@+id/action_administrar_ofertas_to_crear_ofertas5"
+            app:destination="@id/crear_ofertas5" />
+    </fragment>
+    <fragment
+        android:id="@+id/notificaciones"
+        android:name="com.aoz.hire_now.ui.notificaciones.notificaciones"
+        android:label="notificaciones" />
+    <fragment
+        android:id="@+id/administrar_Contratos"
+        android:name="com.aoz.hire_now.ui.Administrar_contratos.Administrar_Contratos"
+        android:label="@string/administrar_contratos"
+        tools:layout="@layout/fragment_administrar__contratos" />
+
+</navigation>
